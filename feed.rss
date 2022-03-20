@@ -1,0 +1,57 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Matter Reading List</title>
+    <link>https://github.com/xab13r</link>
+    <language>en-us</language>
+    <itunes:author>Lorenzo</itunes:author>
+    <description>
+      Audio version of articles saved in Matter.
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:image
+      href="https://github.com/xab13r/MatterPod/blob/main/matter_artwork.png"
+    />
+    <item>
+	<title>Absolute Power</title>
+	<description><![CDATA[
+		Daring Fireball - Graeme Wood
+		<a href="https://www.theatlantic.com/magazine/archive/2022/04/mohammed-bin-salman-saudi-arabia-palace-interview/622822/"/>]]>
+	</description>
+	<enclosure 
+		type="audio/mpeg" 
+        url="https://media.getmatter.app/media/audio_content/2022/03/03/83c55013077e91f925efae296d4c64be.mp3"
+        length="3995112"
+    />
+	<guid>2213335</guid>
+	<pubDate>2022-03-03T11:00:00+00:00</pubDate>
+</item><item>
+	<title>Mac Studio and Studio Display Review Roundup</title>
+	<description><![CDATA[
+		Macstories - John Voorhees
+		<a href="https://www.macstories.net/news/mac-studio-and-studio-display-review-roundup/"/>]]>
+	</description>
+	<enclosure 
+		type="audio/mpeg" 
+        url="https://media.getmatter.app/media/audio_content/2022/03/17/68802c6112c9370f2e48bdcc84266936.mp3"
+        length="434544"
+    />
+	<guid>2567941</guid>
+	<pubDate>2022-03-17T15:57:07.846809+00:00</pubDate>
+</item><item>
+	<title>Confessions of a Pornhub moderator</title>
+	<description><![CDATA[
+		The Verge - Nathan Munn
+		<a href="https://www.theverge.com/c/22925906/pornhub-mindgeek-content-moderation"/>]]>
+	</description>
+	<enclosure 
+		type="audio/mpeg" 
+        url="https://media.getmatter.app/media/audio_content/2022/02/23/31014da5560b575a777790ec26d928f0.mp3"
+        length="1888416"
+    />
+	<guid>2125720</guid>
+	<pubDate>2022-02-23T13:00:00+00:00</pubDate>
+</item>
+ </channel>
+</rss>
